@@ -86,3 +86,6 @@ or
 
 PORTFOLIO LINK: https://boddiegoat7.github.io/boddie-portfolio/
 
+![PORTFOLIO](https://user-images.githubusercontent.com/107088058/201485771-cd05ce8a-077f-4296-becd-94a1329dcf39.png)
+
+
