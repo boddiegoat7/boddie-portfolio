@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/boddie-portfolio/static/css/main.0dbd01ad.css",
+    "main.js": "/boddie-portfolio/static/js/main.0370eb5b.js",
+    "static/js/787.e94e19a4.chunk.js": "/boddie-portfolio/static/js/787.e94e19a4.chunk.js",
+    "static/media/coming-soon.gif": "/boddie-portfolio/static/media/coming-soon.682d24373f877c0b91c6.gif",
+    "static/media/Github.png": "/boddie-portfolio/static/media/Github.237e2214562c441f67b2.png",
+    "index.html": "/boddie-portfolio/index.html",
+    "main.0dbd01ad.css.map": "/boddie-portfolio/static/css/main.0dbd01ad.css.map",
+    "main.0370eb5b.js.map": "/boddie-portfolio/static/js/main.0370eb5b.js.map",
+    "787.e94e19a4.chunk.js.map": "/boddie-portfolio/static/js/787.e94e19a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dbd01ad.css",
+    "static/js/main.0370eb5b.js"
+  ]
+}
