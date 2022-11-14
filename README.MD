@@ -1,4 +1,4 @@
-# E-commerce-Back-End
+# React-portfolio
 
 ## TABLE OF CONTENTS
   - [DESCRIPTION](#description)
